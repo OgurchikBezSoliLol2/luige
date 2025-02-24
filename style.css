@@ -1,0 +1,49 @@
+header{
+    border: 3px double greenyellow;
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    color:#2adede;
+    background-color: blueviolet;
+    border: 7px double aquamarine;
+}
+.abaunda{
+    background-color: blueviolet;
+    color: aquamarine;
+    border: 7px double lightgreen;
+    font-size: 28px;
+}
+.abidna{
+    background-color: blueviolet;
+    color: aquamarine;
+    border: 7px double lightgreen;
+    font-size: 28px;
+}
+.sambarumpa{
+    background-color: blueviolet;
+    color: aquamarine;
+    border: 7px double lightgreen;
+    font-size: 28px;
+}
+.abaudna{
+    background-color: blueviolet;
+    color: aquamarine;
+    border: 7px double lightgreen;
+    font-size: 28px; 
+}
+.babaluba{
+    background-color: blueviolet;
+    color: aquamarine;
+    border: 7px double lightgreen;
+    font-size: 28px; 
+}
+footer{
+   background-image:radial-gradient(red,orange,yellow,green,lightblue,blue,indigo);
+    color: red;
+    border: 7px double lightgreen;
+    font-size: 28px;  
+}
+body{
+    background-image: linear-gradient(indigo,red,indigo,red,indigo,red,indigo,red,indigo,red);
+}
